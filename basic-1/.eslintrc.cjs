@@ -18,5 +18,9 @@ module.exports = {
     'react'
   ],
   rules: {
+    '@typescript-eslint/explicit-function-return-type': 'off',
+    'react/react-in-jsx-scope': 'off',
+    'react/jsx-no-target-blank': 'off',
+    '@typescript-eslint/no-confusing-void-expression': 'off'
   }
 }
