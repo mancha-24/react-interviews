@@ -22,6 +22,7 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
     'react/jsx-no-target-blank': 'off',
     '@typescript-eslint/no-confusing-void-expression': 'off',
-    'import/no-absolute-path': 'off'
+    'import/no-absolute-path': 'off',
+    '@typescript-eslint/method-signature-style': 'off'
   }
 }
