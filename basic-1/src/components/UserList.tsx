@@ -14,7 +14,7 @@ export function UserList ({ users, showColors }: Props) {
                 <th className='pointer'>Nombre</th>
                 <th className='pointer'>Apellido</th>
                 <th className='pointer'>País</th>
-                <th className='pointer'>Acciones</th>
+                <th>Acciones</th>
             </tr>
         </thead>
         <tbody>
